@@ -1,5 +1,3 @@
-#CSC409 EXAM
-
 ## Week 1: Distributed Systems
 
 http://www.cs.toronto.edu/~arnold/409/18f/lectures/w01/
