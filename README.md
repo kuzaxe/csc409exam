@@ -1,4 +1,4 @@
-# CSC409 EXAM
+#CSC409 EXAM
 
 ## Week 1: Distributed Systems
 
@@ -271,7 +271,7 @@ main (void)
     int size = N * sizeof (int);
     int *x, *y, e;
 
-    // Allocate Unified Memory b  accessible from CPU or GPU
+    // Allocate Unified Memory b� accessible from CPU or GPU
     cudaMallocManaged (&x, size);
     cudaMallocManaged (&y, size);
 
